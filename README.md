@@ -10,6 +10,6 @@ The wing provides on-board input and output footprints for 3.5mm TRS Type B and 
 
 The STEMMA MIDI interface was tested with CircuitPython version 4.0.1. Example code is provided in the repository. Additional examples can be found within the _adafruit__midi_ CircuitPython library distribution.
 
-OSH Park project: https://oshpark.com/shared_projects/VKPsNNjk
+OSH Park project: https://oshpark.com/shared_projects/AyVkzfXM
 
 ![Image of Module](https://github.com/CedarGroveStudios/Classic_MIDI_FeatherWing/blob/master/Classic%20MIDI%20FeatherWing%20glam.png)
