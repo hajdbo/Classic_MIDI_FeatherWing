@@ -12,4 +12,4 @@ The STEMMA MIDI interface was tested with CircuitPython version 4.0.1. Example c
 
 OSH Park project: https://oshpark.com/shared_projects/VKPsNNjk
 
-![Image of Module](https://github.com/CedarGroveStudios/Classic_MIDI_FeatherWing/blob/master/Classic%20MIDI%20FeatherWing%20glamour.png)
+![Image of Module](https://github.com/CedarGroveStudios/Classic_MIDI_FeatherWing/blob/master/Classic%20MIDI%20FeatherWing%20glam.png)
