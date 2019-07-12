@@ -1,9 +1,8 @@
 # Classic_MIDI_FeatherWing
 
-### _A classic MIDI interface FeatherWing module compatible with the UART mode of Adafruit's STEMMA_
+### _A classic MIDI interface FeatherWing with provisions for DIN-5 and TRS TypeB connectors_
 
-![Image of Module](https://github.com/CedarGroveStudios/STEMMA_MIDI/blob/master/2018-12-23%20STEMMA%20DIN-MIDI%20glamour%204w.png
-)
+![Image of Module](https://github.com/CedarGroveStudios/Classic_MIDI_FeatherWing/blob/master/DSC05764a%20lores.jpg)
 
 The STEMMA MIDI interface is a self-powered, one-quarter protoboard-sized module for use with Adafruit STEMMA-compatible products. The interface converts incoming and outgoing classic MIDI current-loop input and output to STEMMA 3.3-volt logic. This interface requires that the host STEMMA interface be placed into UART mode with a fixed rate of 31,250 baud. 
 
@@ -15,4 +14,4 @@ The STEMMA MIDI interface was tested with CircuitPython version 3.1.1 and versio
 
 OSH Park project: https://oshpark.com/shared_projects/VKPsNNjk
 
-![Image of Module](https://github.com/CedarGroveStudios/STEMMA_MIDI/blob/master/STEMMA%20MIDI%20v00%204w.jpg)
+![Image of Module](https://github.com/CedarGroveStudios/Classic_MIDI_FeatherWing/blob/master/Classic%20MIDI%20FeatherWing%20glamour.png)
