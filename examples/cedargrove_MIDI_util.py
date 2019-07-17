@@ -1,6 +1,6 @@
 # The MIT License (MIT)
 
-# Copyright (c) 2019 Jan Goolsbey, Cedar Grove Studios
+# Copyright (c) 2019 Cedar Grove Studios
 
 # Permission is hereby granted, free of charge, to any person obtaining a copy
 # of this software and associated documentation files (the "Software"), to deal
@@ -25,7 +25,7 @@
 cedargrove_MIDI_util.py 2019-03-31 v00 09:20PM
 A CircuitPython method collection for processing MIDI notes.
 
-* Author(s): Jan Goolsbey
+* Author(s): Cedar Grove Studios
 
 Implementation Notes
 --------------------
