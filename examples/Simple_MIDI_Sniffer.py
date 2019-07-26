@@ -5,7 +5,7 @@
 #
 
 import time
-import usb_midi
+# import usb_midi
 import adafruit_midi
 import busio
 import board
